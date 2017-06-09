@@ -1,0 +1,27 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/bin/nodejs /usr/bin/firebase serve
+[debug] CLI Version:  3.9.0
+[debug] Platform:     linux
+[debug] Node Version: v7.10.0
+[debug] Time:         Thu Jun 08 2017 17:21:11 GMT-0700 (DST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/all-about-kids-8823d  
+ Thu Jun 08 2017 17:21:11 GMT-0700 (DST)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/all-about-kids-8823d/tokens  
+ Thu Jun 08 2017 17:21:11 GMT-0700 (DST)
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/mnt/c/Users/S/Desktop/quickstart-js-master/quickstart-js-master/database'...
+[info] 
+[debug] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/all-about-kids-8823d  
+ Thu Jun 08 2017 17:21:12 GMT-0700 (DST)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/293076649770/clients/_:getWebAppConfig  
+ Thu Jun 08 2017 17:21:12 GMT-0700 (DST)
+[debug] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
